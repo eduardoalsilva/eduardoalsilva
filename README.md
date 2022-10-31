@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Eduardo Silva 👋
 
-- 🌱 Atualmente eu estudo Ciência de Dados, Python e Business Intelligence, além de front-end ...
+- 🎲 Atualmente eu estudo Ciência de Dados, Python e Business Intelligence, além de front-end ...
 
 
 <div align="center">
