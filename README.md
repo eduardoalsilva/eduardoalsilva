@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/eduardo-almeida-da-silva-dev/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoalsilva45&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoalsilva45&layout=demo&langs_count=7&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoalsilva&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoalsilva&layout=demo&langs_count=7&theme=onedark"/>
 </div>
 
 <div style="display: inline_block"><br>
