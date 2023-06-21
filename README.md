@@ -1,4 +1,4 @@
-### Olá!! Eu sou o Eduardo Silva 👋
+### Olá!! Eu sou Eduardo Silva 👋
 
 - 🎲 Sou estudante de Ciência de Dados na UNIVESP
 
