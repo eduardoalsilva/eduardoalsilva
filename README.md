@@ -5,7 +5,7 @@
 - 🙏🏼 I'm open to work, searching for my first data science job
 - ⚙ I'm currently studying Pandas, Numpy, Matplotlib and Scikitlearn
 
-## Language and Tools I have used
+## Language and tools I have used
 <div style="display: inline_block"><br>
 
   
