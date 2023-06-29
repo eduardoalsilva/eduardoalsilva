@@ -2,7 +2,6 @@
 
 
 - 🤓 I'm a data science student at UNIVESP
-- 🙏🏼 I'm open to work, searching for my first data science job
 - ⚙ I'm currently studying Pandas, Numpy, Matplotlib and Scikitlearn
 
 ## Languages and tools I have used
