@@ -23,7 +23,7 @@
   
 </div>
 
-## Social medias you can find me
+## You can find me at:
 
 <a href="https://www.hackerrank.com/eduardoalsilva45?hr_r=1"> <img align="center" alt="Edu-HackerRank" height="30" width="40" src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg"></a>
 <a href="https://www.linkedin.com/in/eduardo-almeida-da-silva-dev/"> <img align="center" alt="Edu-LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
