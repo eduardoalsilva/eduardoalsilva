@@ -1,8 +1,8 @@
-## Hi dear!! I'm Eduardo Silva 👋🏼
+## Hey you!! I'm Eduardo Silva 👋🏼
 
 
 - 🤓 I'm a data science student at UNIVESP
-- ⚙ I'm currently studying Pandas, Numpy, Matplotlib and Scikitlearn
+- ⚙  I'm currently studying Pandas, Numpy, Matplotlib and Scikitlearn
 
 ## Languages and tools I have used
 <div style="display: inline_block"><br>
