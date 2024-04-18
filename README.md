@@ -10,6 +10,7 @@ Here's a glimpse into my tech stack:
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" title="Pandas"/>
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="Numpy" title="Numpy"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" title="Scikit-Learn" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
   <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" title="MySQL"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML"/>
