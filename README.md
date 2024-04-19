@@ -14,15 +14,15 @@ Here's a glimpse into my tech stack:
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git"/>
   <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL" title="MySQL"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" title="Linux"/>
+  <img src="https://img.icons8.com/color/48/000000/console.png" alt="Command Line Interface" title="Command Line Interface"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" title="Visual Studio Code"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" title="PostgreSQL"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS"/>
-  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux" title="Linux"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" title="Visual Studio Code"/>
-  <img src="https://img.icons8.com/color/48/000000/console.png" alt="Command Line Interface" title="Command Line Interface"/>
 </p>
 <br>
 
