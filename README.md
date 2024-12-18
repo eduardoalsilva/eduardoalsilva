@@ -1,8 +1,11 @@
 # Hi there! 👋 **I'm Eduardo Silva**
 
-As an undergraduate student deeply immersed in the world of data science, I thrive on the challenges of coding and problem-solving. 
-<br>
-Currently not employed and eagerly anticipating the opportunity to embark on a new career journey!
+Lately I have been working in projects to practice and analyze some datasets at my job. I like to use Python, pandas and CSV files, but I'm open to new technologies, since it's required to finish any project.
+
+The last project I worked was "Bolão Fácil". I used Python to save bets from a group of people in a JSON file. The program can also check the lottery.
+
+I'm also practicing everyday: pandas, matplotlib and seaborn.
+
 <br>
 Here's a glimpse into my tech stack:
 ## Technologies & Tools
