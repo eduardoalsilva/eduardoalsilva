@@ -34,16 +34,3 @@ Connect with me on:
 <a href="https://www.kaggle.com/eduardosilvaap"> <img align="center" alt="Edu-Kaggle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle"></a>
 <a href="https://www.linkedin.com/in/eduardo-almeida-da-silva-dev/"> <img align="center" alt="Edu-LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" title="LinkedIn"></a>
 <br>
-
-## Github stats
-<br>
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=eduardoalsilva&theme=material-palenight&locale=en-US">
-</p>
-<br>
-<div align="center">
-    <a href="[https://github.com/eduardoalsilva](https://github.com/eduardoalsilva)"> 
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoalsilva&layout=compact&langs_count=16&theme=tokyonight"/>
-
-
-</div>
