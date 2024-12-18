@@ -1,6 +1,6 @@
 # Hi there! 👋 **I'm Eduardo Silva**
 
-Lately I have been working in projects to practice and analyze some datasets at my job. I like to use Python, pandas and CSV files, but I'm open to new technologies, since it's required to finish any project.
+Lately I have been working on projects to practice and analyze some datasets at my job. I like to use Python, pandas and CSV files, but I'm open to new technologies, since it's required to finish any project.
 
 The last project I worked was "Bolão Fácil". I used Python to save bets from a group of people in a JSON file. The program can also check the lottery.
 
