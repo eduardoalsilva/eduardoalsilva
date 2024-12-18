@@ -1,10 +1,11 @@
 # Hi there! 👋 **I'm Eduardo Silva**
 
-Lately I have been working on projects to practice and analyze some datasets at my job. I like to use Python, pandas and CSV files, but I'm open to new technologies, since it's required to finish any project.
+I'm currently working on projects to practice and analyze datasets in my job. I enjoy using Python, pandas, and working with CSV files, but I'm always open to learning new technologies whenever a project requires them.
 
-The last project I worked was "Bolão Fácil". I used Python to save bets from a group of people in a JSON file. The program can also check the lottery.
+One of my recent projects was **"Bolão Fácil"**, where I used Python to store group bets in a JSON file and implemented a feature to check lottery results automatically.
 
-I'm also practicing everyday: pandas, matplotlib and seaborn.
+I'm also dedicated to improving my skills every day, focusing on tools like pandas, matplotlib, and seaborn. I'm passionate about turning raw data into insights and continuously exploring ways to optimize workflows through programming.
+
 
 <br>
 Here's a glimpse into my tech stack:
