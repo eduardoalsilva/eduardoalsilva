@@ -9,6 +9,7 @@ I'm also dedicated to improving my skills every day, focusing on tools like pand
 
 <br>
 Here's a glimpse into my tech stack:
+
 ## Technologies & Tools
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
