@@ -1,6 +1,6 @@
 <h1 align='center'> Hi there! 👋 **I'm Eduardo Silva**</h1>
 
-<h3 align='center'>💡 Data Scientist | Enthusiastic Problem Solver </h3>
+<h3 align='center'>💡 A Data Scientist focused on personal development </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardoalsilva&label=Profile%20views&color=0e75b6&style=flat" alt="eduardoalsilva" /> </p>
 
@@ -12,11 +12,19 @@ A notable recent project, **"Bolão Fácil,"** showcases my ability to integrate
 
 My commitment to continuous improvement drives me to deepen my expertise in key data science tools, including pandas, matplotlib, and seaborn. I am passionate about transforming raw data into meaningful narratives and am consistently exploring innovative methods to optimize data workflows through effective programming.
 
+<p align='left'> Data Scientist and Beyond my professional pursuits, I find joy and inspiration in a variety of passions that enrich my life. First and foremost, my children are my greatest source of happiness and motivation. I cherish the time spent with them, learning and growing together.
+
+My curiosity extends to the vastness of the universe, and I am deeply fascinated by astronomy. The wonders of the cosmos inspire me to explore and understand the world around us. To stay physically and mentally fit, I enjoy swimming, finding solace and rejuvenation in the water.
+
+I am a nature enthusiast, finding peace and tranquility in the outdoors. Whether it's hiking through forests or simply enjoying a quiet moment in a park, I appreciate the beauty and serenity of the natural world.
+
+Reading is another passion of mine, as I believe it opens doors to new worlds and ideas. I am also a storyteller at heart, enjoying the art of weaving narratives and sharing them with others. These hobbies and interests not only provide balance to my life but also fuel my creativity and perspective, contributing to my overall growth as a person and a professional.
+
 
 <br>
 Here's a glimpse into my tech stack:
 
-## Technologies & Tools
+<h2 align='center'>Technologies & Tools</h2>
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/>
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" title="Pandas"/>
@@ -37,7 +45,7 @@ Here's a glimpse into my tech stack:
 </p>
 <br>
 
-## How to Reach Me
+<h2 align='center'>How to Reach Me</h2>
 <br>
 Connect with me on:
 <a href="https://profiles.datawars.io/eduardoalsilva45"> <img align="center" alt="Edu-DataWars" height="30" width="40" src="https://profiles.datawars.io/images/logo-sm.svg" title="DataWars"></a>
