@@ -8,7 +8,7 @@
 
 <p align='left'> I am a Data Scientist dedicated to extracting actionable insights from data. My current focus involves practical projects aimed at refining my analytical skills. I am proficient in Python, particularly leveraging pandas for data manipulation, and adept at handling CSV files. I maintain a flexible approach, readily adopting new technologies as project requirements dictate.
 
-A notable recent project, **"Bolão Fácil,"** showcases my ability to integrate programming with practical applications. I developed a Python-based system to manage group lottery bets, storing data in JSON format and automating the process of verifying lottery results.
+A notable recent project, **"Bolão Mega-Sena,"** showcases my ability to integrate programming with practical applications. I developed a Python-based system to manage group lottery bets, storing data in JSON format and automating the process of verifying lottery results.
 
 My commitment to continuous improvement drives me to deepen my expertise in key data science tools, including pandas, matplotlib, and seaborn. I am passionate about transforming raw data into meaningful narratives and am consistently exploring innovative methods to optimize data workflows through effective programming.
 
