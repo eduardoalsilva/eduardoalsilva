@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardoalsilva&label=Profile%20views&color=0e75b6&style=flat" alt="eduardoalsilva" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduardoalsilva" alt="eduardoalsilva" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eduardoalsilva&theme=matrix" alt="eduardoalsilva" /></a> </p>
 
 <p align='left'> I am a Data Scientist dedicated to extracting actionable insights from data. My current focus involves practical projects aimed at refining my analytical skills. I am proficient in Python, particularly leveraging pandas for data manipulation, and adept at handling CSV files. I maintain a flexible approach, readily adopting new technologies as project requirements dictate.
 
