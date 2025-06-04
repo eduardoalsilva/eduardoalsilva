@@ -1,6 +1,5 @@
 <h1 align='center'>Hi there! 👋 I'm Eduardo Silva</h1>
 
-<h3 align='center'>About me</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=eduardoalsilva&label=Profile%20views&color=0e75b6&style=flat" alt="eduardoalsilva" />
@@ -13,6 +12,7 @@
 </p>
 
 <p align='left'>
+<h3>About me</h3>
 I’m a Data Science student currently focused on Software Engineering, developing through practical projects and continuous learning. I’m building full-stack web applications using Python, Django, SQL, and modern development tools, with a strong focus on clean code, testing, documentation, and version control with Git/GitHub.
 
 I’ve been working on real-world systems, such as inventory control and transportation management platforms, using technologies like PostgreSQL, MySQL, and Docker. I’m also exploring API integration, CI/CD pipelines, and backend best practices to deepen my understanding of software architecture and deployment workflows.
