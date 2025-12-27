@@ -1,6 +1,10 @@
 # 👋🏻 Olá! Prazer, Eduardo.
 
-Desenvolvedor .NET buscando minha primeira experiência na área. Também tenho conhecimentos em desenvolvimento WEB e ciência de dados. 
+Desenvolvedor .NET com foco em backend e APIs.
+Trabalho com C#, ASP.NET Core e desenvolvimento web.
+Utilizo Python e bibliotecas como Pandas para análise de dados, automação e apoio à tomada de decisão em sistemas.
+Busco evoluir em projetos que integrem software e dados.
+
 
 
 
