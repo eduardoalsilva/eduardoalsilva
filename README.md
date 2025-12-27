@@ -12,11 +12,7 @@ Busco evoluir em projetos que integrem software e dados.
   <img src="https://komarev.com/ghpvc/?username=eduardoalsilva&label=Profile%20views&color=0e75b6&style=flat" alt="eduardoalsilva" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=eduardoalsilva&theme=matrix" alt="eduardoalsilva" />
-  </a>
-</p>
+
 
 ---
 
@@ -48,5 +44,3 @@ Busco evoluir em projetos que integrem software e dados.
 
 ---
 
-## 📚 GitHub stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduardoalsilva&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D&text_color=#)](https://github.com/eduardoalsilva) 
